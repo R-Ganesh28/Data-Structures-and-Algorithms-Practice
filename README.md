@@ -8,3 +8,4 @@
 - What I Practiced:
   - Two Sum
   - Longest substring with non repeating sequence
+  - Valid Anagram
