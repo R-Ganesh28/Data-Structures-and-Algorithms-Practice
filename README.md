@@ -5,7 +5,9 @@
 - What I Learned:
   - Concept of Arrays and Hashmap.
   - Concept of Sliding window
+  - Greedy Logic
 - What I Practiced:
   - Two Sum
   - Longest substring with non repeating sequence
   - Valid Anagram
+  - Best Time to Buy and Sell Stock
