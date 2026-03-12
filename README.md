@@ -11,3 +11,11 @@
   - Longest substring with non repeating sequence
   - Valid Anagram
   - Best Time to Buy and Sell Stock
+  - Moves Zeroes
+  - Majority Element
+  - Remove Duplicate from Sorted Array
+  - Rotate Array
+  - Two Sum II - Input Array is Sorted
+  - Fizz Buzz
+  - Roman to Integer
+  - Palindrome Number
