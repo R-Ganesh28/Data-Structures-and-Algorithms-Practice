@@ -6,6 +6,7 @@
   - Concept of Arrays and Hashmap.
   - Concept of Sliding window
   - Greedy Logic
+  - Concept of Two Pointer
 - What I Practiced:
   - Two Sum
   - Longest substring with non repeating sequence
@@ -19,3 +20,4 @@
   - Fizz Buzz
   - Roman to Integer
   - Palindrome Number
+  - Boat To Save People
