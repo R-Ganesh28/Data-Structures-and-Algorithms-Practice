@@ -7,6 +7,7 @@
   - Concept of Sliding window
   - Greedy Logic
   - Concept of Two Pointer
+  - Concept of Binary Search
 - What I Practiced:
   - Two Sum
   - Longest substring with non repeating sequence
@@ -21,3 +22,5 @@
   - Roman to Integer
   - Palindrome Number
   - Boat To Save People
+  - Remove Element
+  - Search Insert Position
