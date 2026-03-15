@@ -24,3 +24,7 @@
   - Boat To Save People
   - Remove Element
   - Search Insert Position
+  - Unique Number of Occurences
+  - Single Element in a Sorted Array
+  - Valid Parenthesis
+  - First Letter To Appear Twice
