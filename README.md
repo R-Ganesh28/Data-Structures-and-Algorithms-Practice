@@ -30,3 +30,4 @@
   - Valid Parenthesis
   - First Letter To Appear Twice
   - Merge Intervals
+  - 3Sum
