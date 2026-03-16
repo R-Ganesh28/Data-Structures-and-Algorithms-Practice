@@ -28,3 +28,4 @@
   - Single Element in a Sorted Array
   - Valid Parenthesis
   - First Letter To Appear Twice
+  - Merge Intervals
