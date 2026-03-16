@@ -8,6 +8,7 @@
   - Greedy Logic
   - Concept of Two Pointer
   - Concept of Binary Search
+  - Concept of 2-dimensional array and custom sorting
 - What I Practiced:
   - Two Sum
   - Longest substring with non repeating sequence
