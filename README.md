@@ -31,3 +31,6 @@
   - First Letter To Appear Twice
   - Merge Intervals
   - 3Sum
+  - Minimum Rooms For Meeting Schedule
+  - Minimum Subarray Length with K Distinct Integers
+  - Minimum Total Prefix Count of an Array
